@@ -1,2 +1,2 @@
-# first-test
-just follow the linkin learning 
+# MyfirstRepo
+This is my first repository.
